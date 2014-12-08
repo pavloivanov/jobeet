@@ -1,2 +1,6 @@
 cache/*
 log/*
+web/uploads/*
+config/databases.yml
+
+.idea/
